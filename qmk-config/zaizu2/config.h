@@ -21,13 +21,13 @@
 #define TAPPING_TERM 130
 #define MASTER_LEFT
 
-#define ENABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT 
+#define ENABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT
 #define ENABLE_RGB_MATRIX_RAINBOW_BEACON // Full tighter gradient spinning around center of keyboard
 #define ENABLE_RGB_MATRIX_MULTISPLASH
 #define ENABLE_RGB_MATRIX_SOLID_COLOR
 
 #define RGB_MATRIX_VAL_STEP 4
-#define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_CYCLE_LEFT_RIGHT 
+#define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_CYCLE_LEFT_RIGHT
 #define RGB_MATRIX_DEFAULT_HUE 0   // Sets the default hue value, if none has been set
 #define RGB_MATRIX_DEFAULT_SAT 255 // Sets the default saturation value, if none has been set
 #define RGB_MATRIX_DEFAULT_VAL 100  // RGB_MATRIX_MAXIMUM_BRIGHTNESS // Sets the default brightness value, if none has been set
