@@ -18,7 +18,7 @@
 
 #pragma once
 
-#define TAPPING_TERM 130
+#define TAPPING_TERM 200
 #define MASTER_LEFT
 
 #define ENABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT
