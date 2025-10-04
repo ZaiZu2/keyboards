@@ -19,7 +19,9 @@
 #pragma once
 
 #define TAPPING_TERM 170
-#define MASTER_LEFT
+#define SPLIT_USB_DETECT
+#define SPLIT_USB_TIMEOUT 2500
+#define SPLIT_USB_TIMEOUT_POLL 10
 
 #define ENABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT
 #define ENABLE_RGB_MATRIX_RAINBOW_BEACON // Full tighter gradient spinning around center of keyboard
